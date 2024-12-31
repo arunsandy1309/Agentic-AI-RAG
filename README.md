@@ -39,7 +39,8 @@ The system uses PostgreSQL as the backend, integrated with the `pgvector` extens
 2. Install Python dependencies:
    ```bash
    pip install -r requirements.txt
-   ```  
+   ```
+3. Make sure you have the `.env` which contains the API keys for Groq and Phidata.
 ---
 
 ## Setting Up PostgreSQL with pgvector
